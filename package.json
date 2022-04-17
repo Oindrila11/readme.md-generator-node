@@ -1,0 +1,25 @@
+{
+  "name": "readme.md-generator-node",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oindrila11/readme.md-generator-node.git"
+  },
+  "author": "oindrila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oindrila11/readme.md-generator-node/issues"
+  },
+  "homepage": "https://github.com/Oindrila11/readme.md-generator-node#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
