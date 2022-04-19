@@ -10,7 +10,7 @@
 - [Contribution](#Contribution)
 - [Testing](#Testing)
 - [License](#License)
-- [Contactinformation](#Contact information)
+- [Contactinformation](#Contactinformation)
 
 ## Description:
 This project was created to let users generate a professional readme by answering some questions
@@ -23,6 +23,7 @@ User can use this project to create a professional readme to include with any pr
 
 ## Contribution:
 users can create any changes that is useful and request me by email for the possible changes. 
+
 ## Testing:
 user can git clone the repo of this project and open in integrated terminal. By typing index.js on the command line, user can answer some series of question and a readme file will be generated.
 
