@@ -16,10 +16,15 @@
 This project was created for user to be able to generate a readme file from the command line. So that user can spend more time on development.
 
 ## Installation:
-To install this application user has to get the repository link via an https or ssh link git clone. Once the repository is cloned to local machine open a terminal and write node index.js on the command line. It will install the npm package that is needed to create the readme file 
+To install this application user has to get the repository link via an https or ssh link 
+git clone 
+Once the repository is cloned to local machine open a terminal and on the command line write 
+npm install  
+It will install the npm package that is needed to create the readme file 
 
 ## Usage:
 This project can be used to create readme faster so that users can concentrate more on development.
+Here is the link to a video that shows how to use this application https://vimeo.com/700876725
 
 ## Contribution:
 Users can contribute by making any useful changes and requesting for a review via email
