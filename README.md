@@ -1,28 +1,34 @@
-# erf
+# Generate a professional readme
 
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
-## Description:
-et
 
 ## Table of Contents
-. [Description](#description)
-. [Installation](#installation)
-. [Usage](#usage)
-. [Contribution](#contribution)
-7. [Testing](#testing)
-8. [Additional Info](#additional-info)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contribution](#Contribution)
+- [Testing](#Testing)
+- [License](#License)
+- [Contactinformation](#Contact information)
+
+## Description:
+This project was created to let users generate a professional readme by answering some questions
 
 ## Installation:
-er
+User has to install npm package by typing npm install on the command line
+
 ## Usage:
-rt3
+User can use this project to create a professional readme to include with any project
+
 ## Contribution:
-erge
+users can create any changes that is useful and request me by email for the possible changes. 
 ## Testing:
-erget
+user can git clone the repo of this project and open in integrated terminal. By typing index.js on the command line, user can answer some series of question and a readme file will be generated.
+
 ## License:
-This project is covered under the Apache License.
+This project is covered under the MIT License.
+
 ## Contact information:
-- Github: [eget](https://github.com/eget)
-- Email: [etgr](mailto:user@example.com) 
+- Github: [oindrila11](https://github.com/oindrila11)
+- Email: [oindrilat11@gmail.com](mailto:user@example.com) 
