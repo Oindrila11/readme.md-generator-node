@@ -1,4 +1,4 @@
-const licenseBadgeLinks = require("./licenseBadges.js");
+ const licenseBadgeLinks = require("./licenseBadges.js");
  generateMarkdown = (data) => {
  data.licenseBadge = licenseBadgeLinks[data.license];
 
@@ -14,7 +14,7 @@ const licenseBadgeLinks = require("./licenseBadges.js");
 - [Contribution](#Contribution)
 - [Testing](#Testing)
 - [License](#License)
-- [Contactinformation](#Contact information)
+
 
 ## Description:
 ${data.description}

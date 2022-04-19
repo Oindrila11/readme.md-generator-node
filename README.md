@@ -10,21 +10,21 @@
 - [Contribution](#Contribution)
 - [Testing](#Testing)
 - [License](#License)
-- [Contactinformation](#Contact information)
+
 
 ## Description:
-This project was created to let users generate a professional readme by answering some questions
+This project allows user to generate a professional readme by installing npm and by answering a series of questions.
 
 ## Installation:
-User has to install npm package by typing npm install on the command line
+To install this project, user has to download the npm package by writing npm install on the command line. 
 
 ## Usage:
-User can use this project to create a professional readme to include with any project
+This project can be used to generate a readme to describe the project and add it with any kind of projects.
 
 ## Contribution:
-users can create any changes that is useful and request me by email for the possible changes. 
+Users can contribute by making any useful changes and requesting a review for the changes by sending an email. 
 ## Testing:
-user can git clone the repo of this project and open in integrated terminal. By typing index.js on the command line, user can answer some series of question and a readme file will be generated.
+To test this project, user can git clone this project in their local file and open index.js in the inegrated terminal. User can type npm index.js and answer a series of questions and a readme file will be generated at the end.
 
 ## License:
 This project is covered under the MIT License.
